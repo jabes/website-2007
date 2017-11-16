@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#0AF;
+	color:#069;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+}
+
+h1 { margin:0px 25px; padding:9px; color:#FFF; font-size:15px; }
+h2 { font-size:13px; margin:10px 0px; }
+h3 { font-size:11px; font-weight:bold; margin:10px 0px; }
+p { margin:0px; }
+ul { list-style:none; padding:0px; margin:0px 10px; }
+form { margin:0px; }
+input, select, textarea { margin:5px 0px; }
+input.flash { width:520px; height:30px; }
+a:link, a:visited { text-decoration:none; color:#069; }
+a:hover, a:active { color:#000; }
+
+/*hr { border:dotted 1px #069; width: 519px; }*/
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*///// MENUS /////*/
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+#nav { margin:0 auto 20px auto; height:30px; width:355px; overflow:hidden; }
+#nav dl { margin:0; padding:0; list-style:none; }
+#nav dd { margin:0; padding:0; float:left; text-indent:-9999em; }
+#nav dd a { display:block; height:30px; width:70px; background:url("../images/buttons.png") no-repeat; overflow:hidden; outline:none; }
+#nav dd#home a { background-position:0px 0px; }
+#nav dd#home a:hover, #nav dd#home a.sel{ background-position:0px -30px; }
+#nav dd#about a { background-position:-70px 0px; }
+#nav dd#about a:hover, #nav dd#about a.sel { background-position:-70px -30px; }
+#nav dd#media a { background-position:-140px 0px; }
+#nav dd#media a:hover, #nav dd#media a.sel { background-position:-140px -30px; }
+#nav dd#contact a { background-position:-210px 0px; }
+#nav dd#contact a:hover, #nav dd#contact a.sel { background-position:-210px -30px; }
+#nav dd#resume a { background-position:-280px 0px; width:75px !important; }
+#nav dd#resume a:hover, #nav dd#resume a.sel { background-position:-280px -30px; }
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*///// MAIN LEVEL DESIGN /////*/
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+#error {
+	border:1px solid white;
+	color:white;
+	padding:0 10px;
+	background-color:red;
+	text-align:center;
+	margin-bottom:10px;
+}
+
+#master { margin:50px auto; width:600px; }	
+#header { background-image:url("../images/header.png"); height:20px; }
+#footer { 	background-image:url("../images/footer.png"); height:20px; }
+#content { background-image:url("../images/middle.png"); }
+#reflection { background-image:url("../images/reflection.png"); color:#FFF; height:55px; text-align:center; padding:10px; }
+#reflection a { color:#FFF; }
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*///// SUB LEVEL DESIGN /////*/
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.subheader {
+	background-image:url("../images/subheader.png");
+	background-repeat:repeat-x;
+	height:31px;
+	width:550px;
+	margin:0px auto;
+}
+
+.subcontent {
+	background-image:url("../images/subcontent.png");
+	width:520px;
+	margin:0px auto;
+	padding:5px 15px;
+}
+
+.subfooter {
+	background-image:url("../images/subfooter.png");
+	background-repeat:repeat-x;
+	height:20px;
+	width:550px;
+	margin:0px auto;
+}
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*///// FIXES /////*/
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.float { float:right; margin:2px 0px; }
+.break { height:5px; }
+.mb { margin-bottom:5px; }
+img.new { margin-right:5px; }

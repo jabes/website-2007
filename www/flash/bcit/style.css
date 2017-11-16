@@ -1,0 +1,23 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#352D00;
+	margin: 0 5px;
+}
+
+h1 {
+	font-size:20px;
+	font-weight:bold;
+}
+
+h2 {
+	font-size:15px;
+	font-weight:bold;
+}
+
+p {
+	font-size:14px;
+	textAlign:justify;
+}
+.red {
+	color: red;
+}

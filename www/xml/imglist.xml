@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<images>
+
+	<pic>
+        <thumb>../thumbs/001.png</thumb>
+        <largeimg>../media/3D Classic Mac.jpg</largeimg>
+        <about><![CDATA[This is an old Apple Macintosh 128 personal computer done in Illustrator with a 3D filter.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/002.png</thumb>
+        <largeimg>../media/3D Room.jpg</largeimg>
+        <about><![CDATA[This fully furnished room was designed and created by myself using 3DS Max. Unfortunately my hardrive failed and the only render I had backed up was this one. The rest of the room was just as detailed.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/003.png</thumb>
+        <largeimg>../media/BCSSG.jpg</largeimg>
+        <about><![CDATA[This is a logo I designed for the 2006 Abbotsford BC Senior Summer Games. My design was one of 3 finalists. Unfortunately it was not chosen.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/004.png</thumb>
+        <largeimg>../media/Breitling Watch.jpg</largeimg>
+        <about><![CDATA[This is vector replication of a Breitling Crosswind watch I created with Adobe Illustrator. I manipulated gradients and the pen tool for the precision I was looking for.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/005.png</thumb>
+        <largeimg>../media/Car Work.jpg</largeimg>
+        <about><![CDATA[This is my second car model. I never had time to finish it but the design looked promising. Like its predecessor, it underwent many changes before looking like it does.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/006.png</thumb>
+        <largeimg>../media/Eco Trek Logo.jpg</largeimg>
+        <about><![CDATA[This is a logo I designed for a company that does not exist. ETE stands for “Eco Trek Expeditions”. They where meant to be a global ecological research group.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/007.png</thumb>
+        <largeimg>../media/KU.jpg</largeimg>
+        <about><![CDATA[This is a logo I designed for a UBC residence. The building name is “Korea” and “K. what? K. U.” is their slogan. The concept derived from the Siberian tiger.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/008.png</thumb>
+        <largeimg>../media/Man Hole Edit.jpg</largeimg>
+        <about><![CDATA[This image I took behind my high school on a rainy day. The pattern of the grate and ripples in the water intrigued me. I altered the image in Photoshop and the end result was displayed in an art gallery.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/009.png</thumb>
+        <largeimg>../media/Midnight Madness.jpg</largeimg>
+        <about><![CDATA[This is a poster I designed for a company I used to work for. Muddy Motors is a new and used off road vehicle recycler. The ATV and Dirt bike illustration was drawn with the pen and eraser tool.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/010.png</thumb>
+        <largeimg>../media/Monte Carlo.jpg</largeimg>
+        <about><![CDATA[This image was taken of my 79’ Monte Carlo. I tainted the normally burgundy colored car red with the hue/saturation and polygon selection tool.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/011.png</thumb>
+        <largeimg>../media/Portrait.jpg</largeimg>
+        <about><![CDATA[This is a vector replication of my head. I used the pen tool to trace out my facial features and sampled my skin tone for color. I sacrificed details to obtain a smoother, cleaner image.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/012.png</thumb>
+        <largeimg>../media/Poster.jpg</largeimg>
+        <about><![CDATA[This image is composed of many silhouettes. The band members, tree, and bird where all traced using the pen tool. The planet is a photograph of earth giving the illusion the band is in outer space.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/013.png</thumb>
+        <largeimg>../media/Puddle Edit.jpg</largeimg>
+        <about><![CDATA[This image was photographed on the same rainy day as “Man Hole”. It was put threw the same process and was also displayed in the art gallery.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/014.png</thumb>
+        <largeimg>../media/Shelby.jpg</largeimg>
+        <about><![CDATA[This image is of a 67 Ford Shelby Mustang GT500. I modeled the car in Photoshop using the pen tool.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/015.png</thumb>
+        <largeimg>../media/Sports Car.jpg</largeimg>
+        <about><![CDATA[This image is the result of many grueling hours spent learning the 3D concept. The initial design looked completely different. I rendered this image with the Brazil plug-in.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/016.png</thumb>
+        <largeimg>../media/Sports Car 2.jpg</largeimg>
+        <about><![CDATA[This image is part 2 of the same design but a different angle and a background to add ambiance. I also rendered this image with the Brazil plug-in.]]></about>
+    </pic>
+	
+	<pic>
+        <thumb>../thumbs/017.png</thumb>
+        <largeimg>../media/Sports Car Abstract.jpg</largeimg>
+        <about><![CDATA[This image is of my 3D Sports Car. It was created with a mixture of Photoshop filters and selections.]]></about>
+    </pic>
+
+</images>

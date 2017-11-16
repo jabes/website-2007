@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	/*background-image:url("../images/mobile/bg.gif");
+	background-repeat:repeat;*/
+	background-image:none;
+	background-color:#333;
+}
+
+#master {
+	margin:0px auto;
+	width:450px;
+}
+
+#header { background-image:url("../images/mobile/header.png"); }
+
+#footer { background-image:url("../images/mobile/footer.png"); }
+
+#content { background-image:url("../images/mobile/middle.png"); }
+
+#reflection { color:#FFF; background-image:url("../images/mobile/reflection.png"); }
+
+.subheader { width:400px; background-image:url("../images/mobile/subheader.png"); }
+
+.subcontent { width:370px; background-image:url("../images/mobile/subcontent.png"); }
+
+.subfooter { width:400px; background-image:url("../images/mobile/subfooter.png"); }
+
+#reflection a { color:#FFF; }

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { text-align:center; }
+
+#reflection { height:75px; }
+
+.subheader, .subcontent { text-align:left; }
+
+.subheader h1 {
+	font-size:15px;
+	height:30px;
+	overflow:hidden;
+}
+
+.subcontent { width:550px; }
