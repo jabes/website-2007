@@ -1,8 +1,8 @@
 <?php
-$hostname = "192.168.2.7";
-$user = "jbullca";
-$pass = "jb.789521";
-$database = "jbullca_emporium"; 
+$hostname = "127.0.0.1";
+$user = "root";
+$pass = "root";
+$database = "cms";
 $dbt1 = "clients";
 $dbt2 = "products";
 mysql_connect("$hostname", "$user", "$pass")or die("Unable to connect to MySQL database");
