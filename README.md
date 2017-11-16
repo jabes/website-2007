@@ -2,6 +2,13 @@
 
 An old backup of my personal website which hosted work done while attending BCIT.
 
+### Requirements
+
+The following programs must be install on your machine before you may install.
+
+- [Vagrant](https://www.vagrantup.com/downloads.html)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 ### How To Use
 
 ```
