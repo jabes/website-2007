@@ -1,6 +1,6 @@
 # Website 2007
 
-A backup of my personal website which hosted work done while attending BCIT.
+An old backup of my personal website which hosted work done while attending BCIT.
 
 ### How To Use
 
@@ -11,3 +11,5 @@ php -S localhost:8000
 ```
 
 Now view in your browser: [http://localhost:8000/](http://localhost:8000/)
+
+![](screenshot.png)
